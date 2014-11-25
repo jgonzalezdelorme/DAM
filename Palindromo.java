@@ -37,9 +37,4 @@ public class Palindromo{
 	
 	
 }
-class TestPalindromo{
-	public static void main(String[] args){
-		Palindromo pal = new Palindromo(" rad ar ");
-		pal.comprobarPalindromo();
-	}
-}
+
